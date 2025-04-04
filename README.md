@@ -26,3 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulserena&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM2dDFudGFuNnNmbmN6OGw2ZTFoaTBmc3dwdzB3cW5rNDBtOGpkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrJB9RTNtpirITf7pd/giphy.gif

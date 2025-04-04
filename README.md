@@ -19,11 +19,6 @@
 - LinkedIn: [linkedin.com/in/gülseren-akkuş-4b3a18207](https://www.linkedin.com/in/gülseren-akkuş-4b3a18207/)
 - GitHub: [github.com/gulserena](https://github.com/gulserena)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulserena&show_icons=true&theme=radical" alt="Gulseren's GitHub stats" />
-</p>
 
 ## 📈 Most Used Languages
 
